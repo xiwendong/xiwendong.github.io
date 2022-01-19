@@ -7,6 +7,9 @@ I want use this docmument to managment my study and work.
  
  ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
  
+ Show below
+ ![dd](https://github.com/xiwendong/ImageBed/blob/main/1633115816.jpg)
+ 
  
 # Simulation
  The simulation forcus on Power Electric and Ac Drive. The simulation include .c file and .m file.
