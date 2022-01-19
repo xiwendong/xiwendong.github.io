@@ -22,11 +22,11 @@ This show example edit markdown link
 
 ![](https://xiwendong.github.io/ImageFolder/1.png)
 
-## Example link a newpage
+## Example link a new netpage
 
 [Github](https://github.com/xiwendong)
 
-## Example link another .md and jump to a page
+## Example link another .md and jump to the net page
 Step1:
 Create a Markdown file(xx.md) and produce .html file(xx.md.html)  by [**Stackedit**](https://stackedit.io/app#)
 
