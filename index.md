@@ -33,7 +33,7 @@ Create a Markdown file(xx.md) and produce .html file(xx.md.html)  by [**Stackedi
 Step2:
 Upload xx.md.html file and .md files to your github.     .md file can be modification for your update.
 
-Step3; add the link in your main.md file 
+Step3; Add the link in your main.md file 
 
 [example link another md file ](https://xiwendong.github.io/Simulation/MyFirstMarDown.md.html)
 
