@@ -13,7 +13,7 @@ I want use this docmument to managment my study and work.
 # Simulation
  The simulation forcus on Power Electric and Ac Drive. The simulation include .c file and .m file.
  
- >This is vv [Ex1](https://xiwendong.github.io/Simulation/Chap1.md)
+ >This is vv [Ex1](https://github.com/xiwendong/xiwendong.github.io/blob/main/Simulation/Chap1.md)
  
  ## [Ex1](https://xiwendong.github.io/Simulation/Chap1.md)
  >
