@@ -31,7 +31,7 @@ Step1:
 Create a Markdown file(xx.md) and produce .html file(xx.md.html)  by [**Stackedit**](https://stackedit.io/app#)
 
 Step2:
-Upload xx.md.html file and .md files to your github.     .md file can be modification for your update.
+Upload xx.md.html file and .md files to your github.     xx.md file can be modification for your update.
 
 Step3; Add the link in your main.md file 
 
