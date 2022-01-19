@@ -7,12 +7,10 @@ I want use this docmument to managment my study and work.
  
  ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
  
- Show below
- ![dd](https://github.com/xiwendong/ImageBed/blob/main/1633115816.jpg)
+ Show below ![dd](https://github.com/xiwendong/ImageBed/blob/main/1633115816.jpg)
+ x ![ddd](https://github.com/xiwendong/xiwendong.github.io/blob/main/ImageFolder/1.png)
  
- ![ddd](https://github.com/xiwendong/xiwendong.github.io/blob/main/ImageFolder/1.png)
- 
- ![dddd](https://xiwendong.github.io/blob/main/ImageFolder/1.png)
+ x ![dddd](https://xiwendong.github.io/blob/main/ImageFolder/1.png)
  
  
  
