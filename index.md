@@ -1,6 +1,6 @@
 # Content
 I want use this docmument to managment my study and work.
- >This my [Github](https://github.com/xiwendong), Which is document work space.
+ >This my [Github](https://github.com/xiwendong), which is document work space.
  >
  >This is my [Gitee](https://gitee.com/xiwen-dong), which will be as a ImageBed.
  
