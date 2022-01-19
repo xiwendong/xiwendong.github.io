@@ -1,16 +1,12 @@
 # Welcome to Xiwen's Github Page!
+![](https://xiwendong.github.io/ImageFolder/1.png)
 # Content
 I want use this docmument to managment my study and work.
  >This my [Github](https://github.com/xiwendong), which is document work space.
  >
  >This is my [Gitee](https://gitee.com/xiwen-dong), which will be as a ImageBed.
  
- ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
  
- Show below ![dd](https://github.com/xiwendong/ImageBed/blob/main/1633115816.jpg)
- x ![ddd](https://github.com/xiwendong/xiwendong.github.io/blob/main/ImageFolder/1.png)
- 
- x ![dddd](https://xiwendong.github.io/blob/main/ImageFolder/1.png)
  
  
  
