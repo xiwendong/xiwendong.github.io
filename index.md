@@ -13,15 +13,21 @@ I want use this docmument to managment my study and work.
 # Simulation
  The simulation forcus on Power Electric and Ac Drive. The simulation include .c file and .m file.
  
- >This is vv [Ex1](https://github.com/xiwendong/xiwendong.github.io/blob/main/Simulation/Chap1.md)
+ >This is vv [Ex1](https://github.com/xiwendong/xiwendong.github.io/blob/main/Simulation/Chap1.md.html)
  
- ## [Ex1](https://xiwendong.github.io/Simulation/Chap1.md)
+ ## [Ex1](https://xiwendong.github.io/Simulation/Chap1.md.html)
  
- ## [Ex2](https://xiwendong.github.io/Simulation)
+ ## [Ex2 This wrong link](https://xiwendong.github.io/Simulation)
  
- [ddddd](C:/Users/Administrator/Downloads/MyFirstMarDown.md)
+ ## [Ex2 This wrong link html](https://xiwendong.github.io/Simulation/MyFirstMarDown.md.html)
+ 
+ [ddddd This Pc link can not work](C:/Users/Administrator/Downloads/MyFirstMarDown.md)
  
 
+
+# Help
+This can help me edit markdown link:
+link a image
 # Old content
 You can use the [editor on GitHub](https://github.com/xiwendong/xiwendong.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
