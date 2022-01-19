@@ -1,12 +1,13 @@
 # Content
 I want use this docmument to managment my study and work.
- >This my [Github](https://github.com/xiwendong);
- >This is my [Gitee](https://gitee.com/xiwen-dong);
+ >This my [Github](https://github.com/xiwendong), Which is document work space.
+ >
+ >This is my [Gitee](https://gitee.com/xiwen-dong), which will be as a ImageBed.
  
  
  
  
-# Simulatino 
+# Simulation
  The simulation forcus on Power Electric and Ac Drive. The simulation include .c file and .m file.
  
 # Old content
