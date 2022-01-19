@@ -13,54 +13,28 @@ I want use this docmument to managment my study and work.
 # Simulation
  The simulation forcus on Power Electric and Ac Drive. The simulation include .c file and .m file.
  
- >This is vv [Ex1](https://github.com/xiwendong/xiwendong.github.io/blob/main/Simulation/Chap1.md.html)
- 
- ## [Ex1](https://xiwendong.github.io/Simulation/Chap1.md.html)
- 
- ## [Ex2 This wrong link](https://xiwendong.github.io/Simulation)
- 
- ## [Ex2 This wrong link html](https://xiwendong.github.io/Simulation/MyFirstMarDown.md.html)
- 
- [ddddd This Pc link can not work](C:/Users/Administrator/Downloads/MyFirstMarDown.md)
  
 
 
 # Help
-This can help me edit markdown link:
-link a image
-# Old content
-You can use the [editor on GitHub](https://github.com/xiwendong/xiwendong.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This show example edit markdown link
+## Example link a image
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://xiwendong.github.io/ImageFolder/1.png)
 
-### Markdown
+## Example link a newpage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github](https://github.com/xiwendong)
 
-```markdown
-Syntax highlighted code block
+## Example link another .md and jump to a page
+Step1:
+Create a Markdown file(xx.md) and produce .html file(xx.md.html)  by [**Stackedit**](https://stackedit.io/app#)
 
-# Header 1
-## Header 2
-### Header 3
+Step2:
+Upload xx.md.html file and .md files to your github.     .md file can be modification for your update.
 
-- Bulleted
-- List
+Step3; add the link in your main.md file 
 
-1. Numbered
-2. List
+[example link another md file ](https://xiwendong.github.io/Simulation/MyFirstMarDown.md.html)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiwendong/xiwendong.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
