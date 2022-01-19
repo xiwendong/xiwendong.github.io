@@ -16,6 +16,9 @@ I want use this docmument to managment my study and work.
  >This is vv [Ex1](https://github.com/xiwendong/xiwendong.github.io/blob/main/Simulation/Chap1.md)
  
  ## [Ex1](https://xiwendong.github.io/Simulation/Chap1.md)
+ 
+ ## [Ex2](https://xiwendong.github.io/Simulation)
+ 
  >
 # Old content
 You can use the [editor on GitHub](https://github.com/xiwendong/xiwendong.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
