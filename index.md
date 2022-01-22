@@ -18,7 +18,7 @@ I want use this docmument to managment my study and work.
  
 
 
-# Help
+# MarkDown Help
 This show example edit markdown link
 ## Example link a image
 
@@ -39,4 +39,26 @@ Step3; Add the link in your main.md file
 
 [example link another md file ](https://xiwendong.github.io/Simulation/MyFirstMarDown.md.html)
 
+## 锚点链接例子
 
+例子1_测试1
+
+### <a href="#测试1">点击测试1</a>
+
+# <a id="测试1">测试1</a>
+
+例子2_测试2
+
+# [点击测试2](#测试2)
+
+### <a id="测试2">测试2</a>
+
+
+
+# VS CODE 配置 C/C++
+
+>完全参考 *知乎* ([基于 VS Code + MinGW-w64 的C语言/C++简单环境配置，专致小白 - 知乎 ](https://zhuanlan.zhihu.com/p/77074009))
+>
+>另外， 关于上篇文章的引用文档也需要要[VS Code之C/C++程序的调试(Debug)功能简介 - 知乎 ](https://zhuanlan.zhihu.com/p/85273055)
+>
+>**NOTE:** 配置环境变量 也可以通过CMD 的方式. [如何使用cmd添加环境变量_豌豆的专栏-CSDN博客_cmd添加环境变量](https://blog.csdn.net/u013179982/article/details/69585320)
